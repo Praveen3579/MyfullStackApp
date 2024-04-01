@@ -6,13 +6,13 @@ Between other frameworks including: Knex.js, Clarifai Face Model, Brcypt and Cor
 
 An thanks to the creator of the [particles.js](https://vincentgarreau.com/particles.js/) for the incredible component.
 
-This is the Front-end part, if you are interested on the back-end you should go to the [repositorie](https://github.com/Vitorr32/face-recognition-full-stack-api)
+This is the Front-end part, if you are interested on the back-end you should go to the [repositorie](https://github.com/Praveen3579/npmProject)
 
 ## Content
 
 Now, what is this about?
 
-This is an project that concludes the Udemy course "The Complete Web Developer in 2018: Zero to Mastery" and consist of a
+This is an project that concludes the Udemy course "The Complete Web Developer : Zero to Mastery" and consist of a
 web application that allows the user to submit url from images and get back bounding boxes that encompass the faces in the
 picture thanks to the API Clarifai Face Model.
 
